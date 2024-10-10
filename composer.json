@@ -1,0 +1,17 @@
+{
+    "name": "droptica/ddr_security_login",
+    "type": "drupal-recipe",
+    "description": "Droptica's Drupal Recipes: Security Login",
+    "keywords": ["recipe", "Drupal recipes", "Drupal recipe", "security", "login"],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": ">=10.3",
+        "drupal/login_security": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Droptica",
+            "role": "Company"
+        }
+    ]
+}

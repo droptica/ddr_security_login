@@ -1,0 +1,6 @@
+name: 'DDR Security Login'
+type: "Droptica's Drupal Recipes"
+description: "Enhances login security using the Login Security module"
+
+install:
+  - login_security
